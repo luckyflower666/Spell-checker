@@ -1,0 +1,9 @@
+I implemented 2 models
+
+The first one is based on occurrence.
+The second is based on confusion matrix.
+
+I am used to work with csv so I transfer the format of txt to csv for count_1w.
+
+Also in matrices folder, you can find 4 csv represent 4 confusion matrices seprately as deletion, insertion, substitution and transition. 
+The first column of matrix refer to the related 2 error chars and the second column refer to the occurrence of the error in spell-errors.txt.
